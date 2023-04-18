@@ -1,0 +1,14 @@
+1. Menurut Saya Web adalah cara membangun aspek secara visual dan interaktif dari app web dengan mempelajari HTML, CSS, Javascript dan Git yakni penyimpanan source code
+    Informasi dalam web terdiri dari Tulisan, Grafik, Desain dan Etika dalam pembuatan Web
+
+2. URI adalah Uniform Resource Intentifier yakni identifikasi sumber daya dari internet
+   URL adalah Uniform Resource Location yakni identifikasi sumber daya dari lokasi
+
+3.  tag <br> biasanya tag ini digunakan untuk menambahkan baris baru pada paragraf yang 
+    kita buat
+    <h1>-<h6> adalah tag heading yang digunakan untuk membuat judul web
+    <p> tag ini biasanya digunakan untuk menginput teks kedalam web
+    
+
+4.  Doctype adalah tag yang digunakan untuk menjelaskan jenis file yang digunakan 
+    termasuk ke dalam jenis file HTML
